@@ -32,3 +32,36 @@ The complete working notebook is available in:
 ## Key Takeaway
 
 Small Python programs can be used to process and clean text, which forms a basic foundation for working with AI and Natural Language Processing.
+
+
+## Day 3 — Text is Data: Turning Words into Numbers 🔢
+
+Today I learned how raw text can be transformed into a format that machine learning models can work with.
+
+### What I Learned
+
+- Tokenization using NLTK
+- Removing stop words
+- Removing punctuation
+- Converting text to lowercase
+- Creating a Bag-of-Words representation
+- Preparing processed text as ML-ready input
+
+### Tasks Completed
+
+✅ Tokenized a sample paragraph using NLTK  
+✅ Removed English stop words  
+✅ Removed punctuation  
+✅ Converted tokens to lowercase  
+✅ Created a Bag-of-Words representation using word frequencies  
+✅ Created a preprocessed text dataset ready for ML input  
+
+### Notebook
+
+📓 [ABTalks AI Day 3 Notebook](Day-3/ABTalks_AI_Day3.ipynb)
+
+### Key Takeaway
+
+Text needs to be cleaned and converted into numerical representations before a machine learning model can process it. Tokenization, preprocessing, and Bag-of-Words are basic but important steps in Natural Language Processing (NLP).
+
+**Day 3 complete! 🚀**
