@@ -142,3 +142,40 @@ I learned that the quality and variety of training data affect how well a machin
 
 ### Model Link
 https://teachablemachine.withgoogle.com/models/IDcmHtb8_/
+
+
+---
+
+## Day 7 — Sentiment Classification 😊🤖
+
+### Objective
+Build a basic machine learning model to classify text reviews as positive or negative.
+
+### What I Learned
+- Text preprocessing and numerical feature extraction
+- CountVectorizer
+- Naive Bayes classification
+- Evaluating model accuracy
+- Testing predictions on new reviews
+
+### Tasks Completed
+- Created a dataset containing 10 positive and negative reviews
+- Converted text into numerical features using CountVectorizer
+- Trained a Multinomial Naive Bayes classifier
+- Evaluated the model on the training dataset
+- Tested the model using five new reviews
+- Documented the experiment and key learnings in Google Colab
+
+### Technologies Used
+- Python
+- Google Colab
+- Pandas
+- Scikit-learn
+
+### Notebook
+[ABTalks_AI_Day7.ipynb](Day-7/ABTalks_AI_Day7.ipynb)
+
+### Key Takeaway
+I learned how a machine learning model can classify text sentiment. I also understood that a small dataset may not generalize well to new reviews, highlighting the importance of varied training data and proper evaluation.
+
+**Day 7 completed! 🚀**
