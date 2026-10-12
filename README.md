@@ -8,6 +8,8 @@ The AI model uses patterns learned from data to generate a suitable response.
 The generated response is then sent back to the user as output.
 This process can be represented as Input → Processing → Output.
 
+**Day 1 completed! 🚀**
+
 ---
 
 # Day 2 — Your First Python AI Script 🐍
@@ -32,6 +34,8 @@ The complete working notebook is available in:
 ## Key Takeaway
 
 Small Python programs can be used to process and clean text, which forms a basic foundation for working with AI and Natural Language Processing.
+
+**Day 2 completed! 🚀**
 
 
 ## Day 3 — Text is Data: Turning Words into Numbers 🔢
@@ -84,6 +88,8 @@ I learned that sentences with similar meanings can have high similarity scores e
 
 ### Notebook
 [ABTalks_AI_Day4.ipynb](Day-4/ABTalks_AI_Day4.ipynb)
+
+**Day 4 completed! 🚀**
 
 
 ---
@@ -142,6 +148,8 @@ I learned that the quality and variety of training data affect how well a machin
 
 ### Model Link
 https://teachablemachine.withgoogle.com/models/IDcmHtb8_/
+
+**Day 6 completed! 🚀**
 
 
 ---
