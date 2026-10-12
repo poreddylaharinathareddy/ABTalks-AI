@@ -84,3 +84,40 @@ I learned that sentences with similar meanings can have high similarity scores e
 
 ### Notebook
 [ABTalks_AI_Day4.ipynb](Day-4/ABTalks_AI_Day4.ipynb)
+
+
+---
+
+## Day 5 — Build a Mini Search Engine 🔎
+
+### Objective
+Build a mini semantic search engine that finds sentences based on meaning rather than only matching keywords.
+
+### What I Learned
+- Sentence embeddings using Sentence Transformers
+- Vector representations of text
+- Cosine similarity for comparing sentence meanings
+- Semantic search vs. keyword search
+
+### Tasks Completed
+- Created a dataset containing 20 sentences
+- Converted sentences into numerical embeddings using `all-MiniLM-L6-v2`
+- Built a Python semantic search function
+- Retrieved the top 3 most similar sentences for a query
+- Compared semantic search with keyword search
+- Tested the search engine with different queries
+
+### Technologies Used
+- Python
+- Google Colab
+- Sentence Transformers
+- Scikit-learn
+- NumPy
+
+### Notebook
+[`ABTalks_AI_Day5.ipynb`](Day-5/ABTalks_AI_Day5.ipynb)
+
+### Key Takeaway
+Semantic search helps computers find information based on meaning, even when the exact words differ. It is useful for AI chatbots, semantic retrieval, and Retrieval-Augmented Generation (RAG).
+
+**Day 5 completed! 🚀**
