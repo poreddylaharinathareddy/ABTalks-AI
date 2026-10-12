@@ -202,3 +202,22 @@ Today, I learned how to clean and normalize raw text using Python, NLTK, and reg
 Text preprocessing converts messy raw text into cleaner, structured data that can be used for Natural Language Processing (NLP) and machine learning.
 
 **Day 8 completed! 🚀**
+
+
+## Day 9: Vector Representation and Cosine Similarity
+
+**Objective:** Convert text into numerical vectors using TF-IDF and calculate cosine similarity.
+
+**What I learned:**
+- Converted 10 sentences into TF-IDF vectors using Scikit-learn.
+- Calculated cosine similarity scores using NumPy and Scikit-learn.
+- Created a `find_similar()` function to retrieve similar sentences.
+- Compared related and unrelated sentence pairs.
+- Visualized similarity scores using a heatmap.
+- Learned why cosine similarity measures the angle between vectors rather than their distance.
+
+**Tools Used:** Python, Scikit-learn, NumPy, Matplotlib.
+
+**Notebook:** [ABTalks_AI_Day9.ipynb](Day-9/ABTalks_AI_Day9.ipynb)
+
+**Day 9 completed! 🚀**
