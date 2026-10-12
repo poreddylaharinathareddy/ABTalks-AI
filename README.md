@@ -65,3 +65,22 @@ Today I learned how raw text can be transformed into a format that machine learn
 Text needs to be cleaned and converted into numerical representations before a machine learning model can process it. Tokenization, preprocessing, and Bag-of-Words are basic but important steps in Natural Language Processing (NLP).
 
 **Day 3 complete! 🚀**
+
+
+## Day 4 — Vectors: Teaching Meaning to Machines 🧠
+
+### What I Learned
+Today, I explored how AI represents sentences as numerical vectors called **embeddings** and compares their meanings using cosine similarity.
+
+### Tasks Completed
+- Installed and imported the `sentence-transformers` library in Google Colab.
+- Generated embeddings for five sentences with similar and different meanings.
+- Compared sentence pairs using cosine similarity.
+- Observed how similarity scores help identify sentences with related meanings.
+- Wrote a reflection on what I learned.
+
+### Key Takeaway
+I learned that sentences with similar meanings can have high similarity scores even when they use different words. Embeddings are useful in semantic search, recommendation systems, chatbots, and Retrieval-Augmented Generation (RAG).
+
+### Notebook
+[ABTalks_AI_Day4.ipynb](Day-4/ABTalks_AI_Day4.ipynb)
