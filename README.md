@@ -121,3 +121,24 @@ Build a mini semantic search engine that finds sentences based on meaning rather
 Semantic search helps computers find information based on meaning, even when the exact words differ. It is useful for AI chatbots, semantic retrieval, and Retrieval-Augmented Generation (RAG).
 
 **Day 5 completed! 🚀**
+
+
+## Day 6 — Training a Machine Learning Model
+
+### What I Did
+- Used Google Teachable Machine to create an image classifier.
+- Created two classes: Book and Mobile.
+- Collected image samples for both classes.
+- Trained the model and tested its predictions.
+- Exported the model as a shareable cloud model.
+
+### My Observations
+1. More varied and clear training images can help a model recognize objects better.
+2. Inconsistent backgrounds and camera angles can affect predictions.
+3. Testing with new images helps identify mistakes and improve the model.
+
+### Key Takeaway
+I learned that the quality and variety of training data affect how well a machine learning model performs.
+
+### Model Link
+https://teachablemachine.withgoogle.com/models/IDcmHtb8_/
