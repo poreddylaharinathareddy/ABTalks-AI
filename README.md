@@ -178,4 +178,25 @@ Build a basic machine learning model to classify text reviews as positive or neg
 ### Key Takeaway
 I learned how a machine learning model can classify text sentiment. I also understood that a small dataset may not generalize well to new reviews, highlighting the importance of varied training data and proper evaluation.
 
+
+## Day 8 — Text Preprocessing with Python 📝
+
+### What I Learned
+Today, I learned how to clean and normalize raw text using Python, NLTK, and regular expressions.
+
+### Tasks Completed
+- Processed three text samples: social media, a news article, and a customer review.
+- Practiced word-level and sentence-level tokenization.
+- Removed stopwords using NLTK.
+- Removed punctuation, emojis, and special characters using regular expressions.
+- Normalized whitespace and converted text to lowercase.
+- Compared stemming and lemmatization.
+- Built a text preprocessing pipeline and displayed the final cleaned dataset.
+
+### Notebook
+📓 [ABTalks_AI_Day8.ipynb](ABTalks_AI_Day8.ipynb)
+
+### Key Takeaway
+Text preprocessing converts messy raw text into cleaner, structured data that can be used for Natural Language Processing (NLP) and machine learning.
+
 **Day 7 completed! 🚀**
